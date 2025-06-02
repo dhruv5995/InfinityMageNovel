@@ -1,0 +1,337 @@
+Raid Control (2)
+
+'Western Nation Free Pass?'
+
+Dex Emotion's surprise was understandable.
+
+Only the Ascension Guild had free access to all hunting grounds occupied by the Western Nation.
+
+"Hey, where did you get this?"
+
+"I found it. In Atogram. That's why I took the train to the Western Nation. If you help me, I'll let you use this. It's not a bad deal for you guys either."
+
+Shirone spoke according to plan.
+
+The little witch had given him a physical item instead of an electronic card to conceal her identity.
+
+Dex Emotion examined the card again.
+
+'If it's in item form, finding it isn't impossible. But for it to be Yahweh 2?'
+
+Wasn't this too coincidental for chance?
+
+'There's some mastermind I don't know about. An inside trader between Golden Wheel and Ascension. Is it betrayal from Ascension? Or maybe if Yahweh 2 is from the Western Nation and infiltrated Golden Wheel...'
+
+Without knowing the full story, no amount of thinking would lead to a conclusion.
+
+'Right, it's not my concern. The problem is the Western Nation Free Pass. With this, we can level up in the most efficient hunting grounds. The items we get there are just a bonus...'
+
+After exchanging glances with codename Mafia, Dex Emotion looked back at Shirone.
+
+"What are the conditions? If you give us this free pass, what do we need to do for you?"
+
+"I want to get two items. Michelangelo and Donatello. Find just these and I'll give you the free pass."
+
+Mafia, who had been making an incredulous expression, laughed.
+
+"Hahaha! What nonsense are you talking? Michelangelo and Donatello? Do you know what the drop rate is for legendary items? Plus it's mythic-grade difficulty. This has nothing to do with level. It auto-adjusts. It'd be faster to just pay a fortune and buy them."
+
+According to Fermi, an estimated 12 of the 4 Great Legendary Items had been released in High Gear.
+
+'Specific guilds must be monopolizing them.'
+
+If Golden Wheel possessed Raphael and Da Vinci, then Ascension would have Michelangelo and Donatello.
+
+Knowing the internal situation, they would never hand those items over to the Eastern Nation.
+
+Dex Emotion added:
+
+"I know what you're thinking. You want to equip all 4 Great Legendary Items. But that's a dream. It's an achievement no one in High Gear has accomplished."
+
+"Let me hunt Ergos. Let's try it first, and if it seems impossible, I'll give up."
+
+Shirone placed his hopes on his own senses.
+
+'When my time perception became more sensitive, space opened up. In reality, Parkji came after Shipok too.'
+
+This place was definitely different from reality.
+
+But even so, being able to open new worlds through sensation was ironic.
+
+'Maybe...'
+
+What if the real world is also just a simulation when viewed from somewhere farther away?
+
+Shirone decided to focus on the immediate goal, stopping his thoughts and making realistic calculations.
+
+'The combination of Shipok and Parkji opened Ipdo. In High Gear terms, that's about programmer-level authority.'
+
+He might be able to control the raid.
+
+"Let me do it. I absolutely won't cause any harm. Lower levels are advantageous anyway, right?"
+
+Since mythic-grade hunting grounds adjusted difficulty based on average level, being simply strong wasn't everything.
+
+"...Let us talk for a moment."
+
+Mafia and Dex Emotion returned to their teammates and held a meeting for about 10 minutes.
+
+Dex Emotion approached Shirone.
+
+"Alright, let's try it. But if we don't see hope in the first round, we're quitting. We don't want to waste time."
+
+"That's enough."
+
+The 8-person party including Yahweh 2 left Democracy and headed for the hunting grounds.
+
+Mafia asked:
+
+"What level did you say you were?"
+
+"Level 100."
+
+"Then you have 10 selective options unlocked. What options are you currently equipped with?"
+
+"Exo Barrier. Hawk Eye. Booster."
+
+Exo Barrier creates a shield for 1 second but consumes tremendous power.
+
+Hawk Eye provides wide-area vision corresponding to increased speed, and Booster was a rocket engine.
+
+"Hmm. Level 70, 80, and 100 options. Well, it's efficient for single play. But it's different in a party."
+
+Dex Emotion instructed:
+
+"First, remove Exo Barrier and switch to cruise control mode. You might run short on power during the hunt."
+
+Cruise control mode, activated at level 30, could save power during long-distance travel.
+
+"Okay. I'll change it now."
+
+"When we reach the hunting grounds, remove cruise control mode again and add drone communication. If we don't know where the creatures are in advance, the party will be wiped out."
+
+Shirone nodded.
+
+"For the remaining 2 slots, use infrared vision and the one that reduces machine noise, what's it called? Ah, stealth mode. That should be best for level 100."
+
+"Hmm, they're all support functions. But shouldn't I have turbo? Just in case?"
+
+"A level 100 using turbo won't make much difference. It's mainly an option chosen in duels. Rankers sometimes pick it in raids, but we're all over level 230. We're not expecting damage from you from the start."
+
+Codename Sona interjected:
+
+"You should focus on survival first. If you die, the difficulty will increase even more. Actually, hearing enhancement would help survival more than drone communication, but if you handle drone communication, we can change one of our options too."
+
+"Got it. I'm the guide then."
+
+"That's right. Sigh, honestly I'm not sure about this. Entrusting guidance to someone attempting Ergos for the first time."
+
+Since they didn't have much to lose anyway, the plan proceeded as scheduled.
+
+The place they arrived at was a massive 80-meter-high cave carved into a natural cliff.
+
+'Ergos's sanctuary.'
+
+Dex Emotion explained:
+
+"All creatures in High Gear change their patterns through genetic algorithms."
+
+This was something Shirone had known since hunting Metal Rats in Iron Hometown.
+
+"The core is learning and evolution, but there's something called mutation probability. Ordinary creatures have less than 10 percent mutation probability."
+
+The creatures don't actually reproduce, but data remains and is passed to the next generation.
+
+"But Ergos has a whopping 50 percent mutation rate. It's impossible to predict how it will evolve as generations pass."
+
+Shirone understood.
+
+"That means we won't know what's inside this cave until we enter."
+
+"Right. That's why mythic-grade creatures are impregnable. Since there are no standardized patterns, you can't memorize strategies and have to fight purely on instinct."
+
+Having roughly grasped the difficulty, Shirone entered the cave with his companions.
+
+**Raid begins.**
+
+An event message appeared, the scenery changed, and information from the outside world was cut off.
+
+"Drone."
+
+Shirone used drone communication activated at level 40 to deploy a small aircraft.
+
+Dex Emotion said:
+
+"Mafia will give instructions using wide-area communication. Since other members including you don't have communication options, you need to focus every time instructions are given."
+
+Adding communication functions to selective options with a 3-slot limit was definitely a luxury.
+
+However, at higher levels, options that integrated various functions would appear, with the representative being Magnan activated at level 260, which included most communication functions.
+
+'So that's why everyone talks about Magnan, Magnan. Real gameplay starts from level 260.'
+
+Without Magnan, which covers drones, hounds, satellites, as well as short-range, long-range, and wide-area communication, one couldn't play a special role in large-scale guild wars or even solar wars.
+
+"Let's go. Time isn't important. We can challenge it as many times as we want. But if you die, you'll revive outside the cave, so minimizing mistakes is the top priority."
+
+In that sense, the guide's role was crucial.
+
+Shirone flew his drone into the cave, guiding them toward paths with as few creatures as possible.
+
+'It's better to avoid combat.'
+
+The average level of creatures was set to be 50 levels higher than the party's average level.
+
+Thanks to Yahweh 2, the difficulty had decreased, but it would be poison when facing Ergos.
+
+'Boss creatures are 100 levels higher.'
+
+Since the clear probability would approach zero if even one person died, the group exercised extreme caution.
+
+"Now!"
+
+When Mafia designated a target and gave instructions, 6 people simultaneously rushed in to destroy the machine.
+
+*Kiiiek!*
+
+In the blood-drying progression, Mafia's group realized the rumors about Yahweh 2 were true.
+
+'The tactical completeness is understandable since it's Golden Wheel, but this guy... how does he know the way?'
+
+For someone attempting Ergos for the first time, even memorizing the maze-like complex paths would be difficult.
+
+'This way.'
+
+Shirone was feeling the code.
+
+'All code has intention. Even if creature patterns evolve like living beings, viewed as a whole, it's just one network. And the form of that network is...'
+
+The designer's intention.
+
+'It's not cold.'
+
+He could feel the operator's heart.
+
+'No matter how much the difficulty is raised, it's working so that a 0 percent probability never occurs.'
+
+Probably a fact even the person involved doesn't know.
+
+'They really love it. This world, High Gear. The users who enjoy High Gear.'
+
+Also, being at a level where he could sense the designer's intention meant Shirone had reached a level equivalent to Ipdo in reality.
+
+'I can do it.'
+
+At that moment, the cave shook.
+
+"It's here! Everyone prepare!"
+
+From pitch-black darkness undetectable even by infrared vision came a mechanical voice.
+
+**Who dares invade God's sanctuary!**
+
+Mafia gave instructions through wide-area communication and Sona unleashed a barrage of flash grenades.
+
+*Flash!* Light burst forth.
+
+What revealed itself was a giant eyeball.
+
+**Insignificant creatures!**
+
+And steel legs extending in four directions from that eye, gripping the cave.
+
+"Close to Type C form! Mobile warfare! Focus on evasion!"
+
+The moment instructions were given, steel-clawed tentacles flew from behind Ergos.
+
+*Bang! Bang! Bang! Bang!*
+
+The 8-person party scattered in all directions as small creatures emerged from the cave crevices.
+
+Fierce combat began.
+
+The key was to pursue Ergos as it retreated, striking the cave walls with its four legs, while landing hits.
+
+"Damn! It's too fast!"
+
+The creatures interfered, and damage didn't register on the skeleton except for the eyeball.
+
+Then Shirone charged in alone.
+
+"You idiot! Follow instructions...!"
+
+The words stopped as Shirone dodged dozens of tentacles and rushed toward Ergos.
+
+"How, how is he doing that?"
+
+Information about having special abilities regarding time and space was all over the bulletin boards.
+
+But the movement lines Yahweh 2 was showing now were completely different from jumping through space.
+
+'How does he know the patterns?'
+
+Moreover, his appearance reminded them of a specific user they had thrilled to watch on broadcast screens.
+
+"Operator..."
+
+*Kraaaaaah!*
+
+As Shirone closed the distance, Ergos fired beams from its eyeball in resistance.
+
+Dex Emotion gaped in amazement.
+
+'The pattern already changed.'
+
+Normally it took 20 minutes just to pursue Ergos to the end of the cave.
+
+'We can do this.'
+
+Gaining confidence, he shouted:
+
+"Let's go! Attack!"
+
+As the 7 followed behind, smashing creatures, Shirone fell into thought.
+
+'Why an eye?'
+
+For the evolved form created within 50 percent mutation to be an eye meant...
+
+'Because it's the most suitable form for receiving photon signals. Then...'
+
+Why god?
+
+Shirone had an intuition.
+
+The secret of the outside world he had so longed for might be here.
+
+"Yahweh 2! Now! Destroy it!"
+
+After a 7-kilometer pursuit, Shirone approached within striking distance of Ergos.
+
+'Not yet.'
+
+Even destroying Ergos's eye here wouldn't get him Michelangelo.
+
+A feeling close to certainty.
+
+'Probability is mathematics, but...'
+
+What determines that probability is the heart, an extremely uncertain quantum signal.
+
+Shirone's eyes flashed.
+
+'Now!'
+
+This point was Michelangelo.
+
+As Suicide's cold weapon pierced the eye, Ergos shuddered as if electrocuted.
+
+*Kiaaaaaah!*
+
+In the roar that shook the cave, Mafia's group checked the augmented reality information.
+
+**Unidentified item drop: Legendary grade.**
+
+"...Impossible."
+
+It was a 0.001 percent probability.
